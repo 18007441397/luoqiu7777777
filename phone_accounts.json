@@ -1,0 +1,15 @@
+{
+  "18888888888": {
+    "balance": 0.0,
+    "last_four": "8888",
+    "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+    "security_question": "你最喜欢的颜色是什么？",
+    "security_answer": "67035e6b7f82acdb9ab43bb4925f377f4a7e5a5a3cc61b8eb3db2038364c3cf3",
+    "status": "正常",
+    "registration_bonus": 100.0,
+    "valid_days": 3,
+    "created_at": "2025-09-30T16:21:36.517595",
+    "expiry_time": "2025-10-03T16:21:36.517595",
+    "last_modified": "2025-09-30T16:22:58.785931"
+  }
+}
